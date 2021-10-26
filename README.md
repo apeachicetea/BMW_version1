@@ -3,6 +3,7 @@
 
 평소에 차량에 관심이 많은데, 그 중에 BMW, Tesla에 더욱 관심이 많다.<br/>
 그동안 배운 지식으로 좋아하는 것들을 활용해볼 수 없을까 생각해보니 차량 관련 홈페이지를 만들어보고 싶어졌다.
+차량들은 BMW, 홈페이지 구조는 Tesla를 참고했다.
 
 ----
 
@@ -38,7 +39,7 @@
 ----
 
 ## 토글버튼 구현 
-> **addEventListner, display : flext, none;** 속성을 활용해 구현했다.
+> **addEventListner, display : flex, none;** 속성을 활용해 구현했다.
 
 ![토글버튼gif](https://user-images.githubusercontent.com/89075605/138601732-9ab13c32-d85d-43de-8ffc-61f7596512ee.gif)
 
